@@ -1,6 +1,6 @@
 # Secure File Sharing System
 
-A computer security project in [CS 161, Fall 2023](https://fa23.cs161.org/proj2/) at UC Berkeley, during my study there at EECS, developed together with Chengle Zheng (team **Go Bears**).
+Computer security course project in [CS 161, Fall 2023](https://fa23.cs161.org/proj2/) at UC Berkeley, during our study there at EECS, developed together with Chengle Zheng (team **Go Bears**).
 
 ## 1. What this project is
 
